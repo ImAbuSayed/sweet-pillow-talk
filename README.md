@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-pillow-talk/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sweet Pillow Talk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-pillow-talk/) |
+| **Get License** | [Obtain a Music License for Sweet Pillow Talk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-pillow-talk/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I love the way your shadows dance upon my skin
+> We’re shutting down the night and letting midnight in
+> Just let the world outside go quiet, let it fade
+> It’s only you and me and every promise made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
